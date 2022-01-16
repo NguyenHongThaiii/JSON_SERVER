@@ -2,27 +2,27 @@ const productListTemp = [
   {
     name: "Player T-Shirt Collection",
     description: "Alennikov",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Basic 2021 T-Shirt Collection",
     description: "Armstead",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Messenger T-Shirt Collection",
     description: "Robatham",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Heaerbeat 2021 T-Shirt Collection",
     description: "Bullas",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Oni T-Shirt ",
     description: "Dumbrell",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Basic short",
@@ -37,17 +37,17 @@ const productListTemp = [
   {
     name: "Mystery Box",
     description: "Portress",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Pacman T-Shirt",
     description: "Rapier",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Classic Racer * Black",
     description: "Rodolico",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Happy T-Shirt",
@@ -67,37 +67,37 @@ const productListTemp = [
   {
     name: "Basic line T-Shirt 2021 black/grey ",
     description: "Kimmitt",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Butterfly multi T-Shirt white",
     description: "Lidgett",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Classic Racer * white",
     description: "Skelcher",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Classic Racer * Green",
     description: "Rodolico",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Butterfly white * mix orange",
     description: "Kinker",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Bút chì màu T-Shirt black",
     description: "Pracy",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Áo thun ê bạn",
     description: "Guisby",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Color loading * black",
@@ -107,17 +107,17 @@ const productListTemp = [
   {
     name: "Monogram polo - cream/green",
     description: "Gamwell",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Stand out - white tee",
     description: "Haggard",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Color loading * grey",
     description: "Gheraldi",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Butterfly fire T-Shirt white",
@@ -142,7 +142,7 @@ const productListTemp = [
   {
     name: "Butterfly fire varsity ( DA 100% ) ",
     description: "Ramelet",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Monogram polo - black",
@@ -152,17 +152,17 @@ const productListTemp = [
   {
     name: "Monogram polo - grey",
     description: "Quiddihy",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Happiness T-Shirt 2021 black",
     description: "Stellino",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Basic polo green",
     description: "Twohig",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Basic crack white tee",
@@ -177,32 +177,32 @@ const productListTemp = [
   {
     name: "Basic july T-Shirt white",
     description: "McMurrugh",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Monogram polo - green",
     description: "Marchent",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Butterfly shirt * black",
     description: "Sey",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Big logo balloons white tee",
     description: "Rosthorn",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Graffiti v2 varsity black",
     description: "Markovic",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "T-Shirt flower leaf * black",
     description: "Gwilliams",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Basic june white tee",
@@ -212,7 +212,7 @@ const productListTemp = [
   {
     name: "Basic trousers black",
     description: "Fairhead",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Back to school shirt ( long )",
@@ -227,17 +227,17 @@ const productListTemp = [
   {
     name: "Cheese T-Shirt white 2021",
     description: "Orrock",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Pocket polo black",
     description: "Porkiss",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Monogram polo - white",
     description: "Teal",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Back to school shirt ( short )",
@@ -252,32 +252,32 @@ const productListTemp = [
   {
     name: "Basic july * black",
     description: "Sutterfield",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Baisc polo cream",
     description: "Calwell",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Tee collab H&M x WAC ( We Are Campers ) * white",
     description: "Fawcus",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M rocket * white tee",
     description: "Godber",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M hologram butterfly T-Shirt",
     description: "Sarfat",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Phi hành gia x Sao kim ́* white",
     description: "Delamaine",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "The tobaco pants cream",
@@ -287,12 +287,12 @@ const productListTemp = [
   {
     name: "Basic line T-Shirt 2021 white/red",
     description: "Eayrs",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "happiness t-Shirt 2021 white",
     description: "Peppard",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "Baisc polo white",
@@ -302,7 +302,7 @@ const productListTemp = [
   {
     name: "H&M color layer 2021 t-Shirt white",
     description: "McGeachey",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M color layer 2021 t-Shirt black",
@@ -312,12 +312,12 @@ const productListTemp = [
   {
     name: "TOTE H&M",
     description: "Hollingsbee",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M zombie white tee",
     description: "Vaggers",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M big logo smoke black tee",
@@ -327,7 +327,7 @@ const productListTemp = [
   {
     name: "H&M butterfly barsity baby blue",
     description: "Skiplorne",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "T-shirt butterfly * white",
@@ -337,17 +337,17 @@ const productListTemp = [
   {
     name: "H&M the tobaco pants black",
     description: "Maudlin",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M butter - flower shirt white/long",
     description: "Chrichton",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M basic line t-shirt 2021 white/blue",
     description: "Conaghan",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M butterfly fire hoodie white",
@@ -362,12 +362,12 @@ const productListTemp = [
   {
     name: "H&M water * white tee",
     description: "Anning",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M big logo smoke yellow tee",
     description: "MacMenemy",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M buuter - flower shirt white/short",
@@ -377,17 +377,17 @@ const productListTemp = [
   {
     name: "H&M zombie black tee",
     description: "Kilmaster",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M butter - flower white tee",
     description: "Creeboe",
-    imageUrl: "",
+    imageUrl: null,
   },
   {
     name: "H&M pocket polo green",
     description: "Stabler",
-    imageUrl: "",
+    imageUrl: null,
   },
 ];
 
