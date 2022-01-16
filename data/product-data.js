@@ -27,12 +27,12 @@ const productListTemp = [
   {
     name: "Basic short",
     description: "Dumke",
-    imageUrl: "public/6.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/6.jpg",
   },
   {
     name: "Basic Line Collection",
     description: "Kinny",
-    imageUrl: "public/7.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/7.jpg",
   },
   {
     name: "Mystery Box",
@@ -52,17 +52,17 @@ const productListTemp = [
   {
     name: "Happy T-Shirt",
     description: "Klimpke",
-    imageUrl: "public/11.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/11.jpg",
   },
   {
     name: "Monogram polo - cream/black",
     description: "Minchinton",
-    imageUrl: "public/12.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
   },
   {
     name: "Basic polo stripes green",
     description: "Fairnie",
-    imageUrl: "public/13.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/13.jpg",
   },
   {
     name: "Basic line T-Shirt 2021 black/grey ",
@@ -102,7 +102,7 @@ const productListTemp = [
   {
     name: "Color loading * black",
     description: "Gheraldi",
-    imageUrl: "public/21.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/21.jpg",
   },
   {
     name: "Monogram polo - cream/green",
@@ -122,22 +122,22 @@ const productListTemp = [
   {
     name: "Butterfly fire T-Shirt white",
     description: "Rotlauf",
-    imageUrl: "public/25.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/25.jpg",
   },
   {
     name: "The tobaco pants white",
     description: "Waren",
-    imageUrl: "public/26.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/26.jpg",
   },
   {
     name: "Pocket polo white",
     description: "Derell",
-    imageUrl: "public/27.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/27.jpg",
   },
   {
     name: "Basic polo black",
     description: "Currin",
-    imageUrl: "public/28.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/28.jpg",
   },
   {
     name: "Butterfly fire varsity ( DA 100% ) ",
@@ -147,7 +147,7 @@ const productListTemp = [
   {
     name: "Monogram polo - black",
     description: "Quiddihy",
-    imageUrl: "public/30.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg",
   },
   {
     name: "Monogram polo - grey",
@@ -167,12 +167,12 @@ const productListTemp = [
   {
     name: "Basic crack white tee",
     description: "Derrett",
-    imageUrl: "public/34.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/34.jpg",
   },
   {
     name: "Butter - flower hoodie white",
     description: "Geane",
-    imageUrl: "public/35.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/35.jpg",
   },
   {
     name: "Basic july T-Shirt white",
@@ -207,7 +207,7 @@ const productListTemp = [
   {
     name: "Basic june white tee",
     description: "Signoret",
-    imageUrl: "public/42.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/42.jpg",
   },
   {
     name: "Basic trousers black",
@@ -217,12 +217,12 @@ const productListTemp = [
   {
     name: "Back to school shirt ( long )",
     description: "Hazeldene",
-    imageUrl: "public/44.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/44.jpg",
   },
   {
     name: "Basic polo stripes brown",
     description: "McAlinion",
-    imageUrl: "public/45.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/45.jpg",
   },
   {
     name: "Cheese T-Shirt white 2021",
@@ -242,12 +242,12 @@ const productListTemp = [
   {
     name: "Back to school shirt ( short )",
     description: "Kolinsky",
-    imageUrl: "public/49.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/49.jpg",
   },
   {
     name: "Tee collab H&M x WAC ( We Are Campers ) * Black",
     description: "Northway",
-    imageUrl: "public/50.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/50.jpg",
   },
   {
     name: "Basic july * black",
@@ -282,7 +282,7 @@ const productListTemp = [
   {
     name: "The tobaco pants cream",
     description: "Caldicott",
-    imageUrl: "public/57.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/57.jpg",
   },
   {
     name: "Basic line T-Shirt 2021 white/red",
@@ -297,7 +297,7 @@ const productListTemp = [
   {
     name: "Baisc polo white",
     description: "Clipston",
-    imageUrl: "public/60.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/60.jpg",
   },
   {
     name: "H&M color layer 2021 t-Shirt white",
@@ -307,7 +307,7 @@ const productListTemp = [
   {
     name: "H&M color layer 2021 t-Shirt black",
     description: "Barber",
-    imageUrl: "public/63.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/63.jpg",
   },
   {
     name: "TOTE H&M",
@@ -322,7 +322,7 @@ const productListTemp = [
   {
     name: "H&M big logo smoke black tee",
     description: "Horry",
-    imageUrl: "public/66.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/66.jpg",
   },
   {
     name: "H&M butterfly barsity baby blue",
@@ -332,7 +332,7 @@ const productListTemp = [
   {
     name: "T-shirt butterfly * white",
     description: "Flacknell",
-    imageUrl: "public/68.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/68.jpg",
   },
   {
     name: "H&M the tobaco pants black",
@@ -352,12 +352,12 @@ const productListTemp = [
   {
     name: "H&M butterfly fire hoodie white",
     description: "Goymer",
-    imageUrl: "public/72.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/72.jpg",
   },
   {
     name: "H&M bút chì màu T-shirt white",
     description: "Aylott",
-    imageUrl: "public/73.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/73.jpg",
   },
   {
     name: "H&M water * white tee",
@@ -372,7 +372,7 @@ const productListTemp = [
   {
     name: "H&M buuter - flower shirt white/short",
     description: "Mokes",
-    imageUrl: "public/76.jpg",
+    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/76.jpg",
   },
   {
     name: "H&M zombie black tee",
