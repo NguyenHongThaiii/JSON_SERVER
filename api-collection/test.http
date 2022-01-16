@@ -3,7 +3,7 @@
 #categories
 
 # @name getAllCategories
-GET {{baseUrl}}/products?price_gte=3786387
+GET {{baseUrl}}/products
 
 ###
 
