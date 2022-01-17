@@ -4,6 +4,7 @@ const fs = require("fs");
 // initialize
 const productListTemp = require("./data/product-data");
 const categoryListTemp = require("./data/category-data");
+const sliderListTemp = require("./data/slider-data");
 
 // function
 const randomCategoryList = () => {
@@ -49,14 +50,29 @@ const randomProductList = (categoryList) => {
   return productList;
 };
 
+const randomSliderList = () => {
+  const sliderList = [];
+
+  Array.from(new Array(sliderListTemp.length)).forEach((x, i) => {
+    const slider = {
+      ...sliderListTemp[i],
+      createdAt: casual.unix_time,
+      updatedAt: casual.unix_time,
+    };
+    sliderList.push(slider);
+  });
+  return sliderList;
+};
+
 // IFFE
 (() => {
   const categoryList = randomCategoryList();
   const productList = randomProductList(categoryList);
-
+  const sliderList = randomSliderList();
   const db = {
     categories: categoryList,
     products: productList,
+    sliders: sliderList,
     profile: {
       name: "ThaiPei",
     },
