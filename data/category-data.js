@@ -17,7 +17,7 @@ const categoryListTemp = [
   {
     name: "Hoodie",
     imageUrl:
-      "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-4.png",
+      "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-4.jpg",
   },
   {
     name: "Shirt",
