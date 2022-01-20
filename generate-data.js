@@ -28,15 +28,19 @@ const randomProductList = (categoryList) => {
 
   let i = 0;
   const n = Math.ceil(productListTemp.length / categoryList.length);
-  console.log(n, productListTemp.length, categoryList.length);
+
   for (const category of categoryList) {
     Array.from(new Array(n)).forEach(() => {
+      const index = categoryList.findIndex(
+        (category) => category.name === productListTemp[i].type
+      );
+      console.log(index);
       const product = {
         ...productListTemp[i],
         id: casual.uuid,
         status: casual.boolean,
         trending: casual.boolean,
-        categoryId: category.id,
+        categoryId: categoryList[index]?.id,
         mountSold: casual.integer((from = 0), (to = 100)),
         price: casual.integer((from = 50000), (to = 10000000)),
         createdAt: casual.unix_time,
