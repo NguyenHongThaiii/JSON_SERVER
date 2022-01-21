@@ -504,7 +504,7 @@ const productListTemp = [
   },
   {
     name: "Tee collab H&M x WAC ( We Are Campers ) * Black",
-    description: "Northway",
+    description: "Chưa có mô tả cho sản phẩm này",
     imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/50.jpg",
     sliderList: ["https://js-ecommerce-api.herokuapp.com/asset/img/50.jpg"],
     type: "Tee",
@@ -755,7 +755,7 @@ const productListTemp = [
   },
   {
     name: "Heyyou zombie white tee",
-    description: "Kilmaster",
+    description: "Chưa có mô tả cho sản phẩm này",
     imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
     sliderList: [
       "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
@@ -765,7 +765,7 @@ const productListTemp = [
   },
   {
     name: "Heyyou zombie white tee",
-    description: "Kilmaster",
+    description: "Chưa có mô tả cho sản phẩm này",
     imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
     sliderList: [
       "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
