@@ -42,7 +42,7 @@ const randomProductList = (categoryList) => {
         trending: casual.boolean,
         categoryId: categoryList[index]?.id,
         mountSold: casual.integer((from = 0), (to = 100)),
-        price: casual.integer((from = 50000), (to = 10000000)),
+        price: casual.integer((from = 0), (to = 15)),
         createdAt: casual.unix_time,
         updatedAt: casual.unix_time,
       };
