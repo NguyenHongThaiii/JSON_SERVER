@@ -1,1 +1,1433 @@
-{"categories":[{"name":"Pants","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-1.png","subTitle":"Style yourself with these unique pants","id":"2ff6b506-6dd4-4d92-bbf6-d4466c034509","createdAt":463319212,"updatedAt":987771063},{"name":"Varsity","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-2.png","subTitle":"Shine in your style","id":"9ade3acc-c425-4bc2-a1d3-3ac85b95b513","createdAt":724911615,"updatedAt":441490269},{"name":"Tee","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-3.png","subTitle":"Simple but not ordinary","id":"67c0ae57-6f49-4977-b7fa-10486730b4cc","createdAt":995167802,"updatedAt":242074962},{"name":"Hoodie","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-4.jpg","subTitle":"Create your own winter style","id":"087d5e7f-e477-48b1-a527-e0bb4711b2ba","createdAt":665312884,"updatedAt":346599661},{"name":"Shirt","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-5.png","subTitle":"Go sporty this summer with this vintage navy","id":"3370afd9-3e6e-4586-82cc-a25bfb923e72","createdAt":1193489138,"updatedAt":1189153786},{"name":"Accessory","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-6.webp","subTitle":"Small things sometimes help us a lot","id":"b0389f79-44f5-437f-802d-930f8b8c762c","createdAt":405647535,"updatedAt":1460919793}],"products":[{"name":"Player T-Shirt Collection","description":"Alennikov","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/1.webp","type":"Shirt","id":"f47288b3-1fad-48ed-a36c-e6cbfafd4d10","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":21,"price":6630479,"createdAt":1458690886,"updatedAt":339838259},{"name":"Basic 2021 T-Shirt Collection","description":"Armstead","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/2.webp","type":"Shirt","id":"0839b50b-5721-4318-ad2c-c753770dd4eb","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":1,"price":5820502,"createdAt":396442160,"updatedAt":969251629},{"name":"Messenger T-Shirt Collection","description":"Robatham","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/3.webp","type":"Shirt","id":"532ecee3-101a-4419-a728-205de1089fdf","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":28,"price":1754368,"createdAt":1270173254,"updatedAt":95344539},{"name":"Heartbeat 2021 T-Shirt Collection","description":"Bullas","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/4.webp","type":"Shirt","id":"29e2996b-b1c2-402d-8d71-b4eb41639150","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":20,"price":3852376,"createdAt":50810237,"updatedAt":201814054},{"name":"Oni T-Shirt ","description":"Dumbrell","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/5.webp","type":"Shirt","id":"8432cf8c-feff-4518-a53f-0f02c306ae91","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":28,"price":7440196,"createdAt":1399875353,"updatedAt":942636533},{"name":"Basic short","description":"Dumke","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/6.jpg","type":"Pants","id":"5096c920-7160-4e87-99b5-301bce7d6048","status":true,"trending":false,"categoryId":"2ff6b506-6dd4-4d92-bbf6-d4466c034509","mountSold":7,"price":1734472,"createdAt":939774677,"updatedAt":215620125},{"name":"Basic Line Collection","description":"Kinny","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/7.jpg","type":"Tee","id":"f8ebb025-e791-467e-b2b2-3c71a12523a9","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":93,"price":6196080,"createdAt":596930095,"updatedAt":753738862},{"name":"Mystery Box","description":"Portress","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/8.webp","type":"Accessory","id":"fd0970fd-3538-4e55-a8e6-b21db84bdfbd","status":false,"trending":false,"categoryId":"b0389f79-44f5-437f-802d-930f8b8c762c","mountSold":12,"price":8362372,"createdAt":1372615258,"updatedAt":814980558},{"name":"Pacman T-Shirt","description":"Rapier","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/1.webp","type":"Shirt","id":"31568d56-6a48-4209-aef2-35ce096ceaa7","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":97,"price":3228227,"createdAt":99141910,"updatedAt":805015690},{"name":"Classic Racer * Black","description":"Rodolico","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/10.webp","type":"Tee","id":"85be0f78-75d2-41c8-8e2b-5a283b281200","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":20,"price":5738859,"createdAt":64897107,"updatedAt":164007245},{"name":"Happy T-Shirt","description":"Klimpke","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/11.jpg","type":"Shirt","id":"e04880e4-582b-4c8d-9c0b-fc2e9ef9076f","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":20,"price":8879840,"createdAt":474189054,"updatedAt":867987077},{"name":"Monogram polo - cream/black","description":"Minchinton","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg","type":"Varsity","id":"2705c943-752a-417d-bf0a-3c44186605d7","status":true,"trending":false,"categoryId":"9ade3acc-c425-4bc2-a1d3-3ac85b95b513","mountSold":59,"price":9101954,"createdAt":515095161,"updatedAt":556291563},{"name":"Basic polo stripes green","description":"Fairnie","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/13.jpg","type":"Varsity","id":"bd9b104b-f102-4501-8775-0ca164f79b1d","status":false,"trending":true,"categoryId":"9ade3acc-c425-4bc2-a1d3-3ac85b95b513","mountSold":87,"price":8032608,"createdAt":1319790778,"updatedAt":1312660876},{"name":"Basic line T-Shirt 2021 black/grey ","description":"Kimmitt","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/2.webp","type":"Shirt","id":"8bf59020-cb99-4b11-9794-c1722079460e","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":69,"price":8716985,"createdAt":431875578,"updatedAt":326065180},{"name":"Butterfly multi T-Shirt white","description":"Lidgett","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/15.webp","type":"Shirt","id":"ca5efa1f-61a5-4965-854c-6f6b43ca11bf","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":52,"price":8383241,"createdAt":317548275,"updatedAt":500827263},{"name":"Classic Racer * white","description":"Skelcher","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/16.webp","type":"Tee","id":"27a6fc26-c533-4a9c-b26c-2f38dd624e8c","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":85,"price":4591018,"createdAt":954939187,"updatedAt":1119238162},{"name":"Classic Racer * Green","description":"Rodolico","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/17.webp","type":"Tee","id":"f2beabb8-e339-4368-a520-4574f8852455","status":true,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":77,"price":4438832,"createdAt":435731064,"updatedAt":980012495},{"name":"Butterfly white * mix orange","description":"Kinker","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/18.webp","type":"Hoodie","id":"9ccd6b51-8e26-4b9f-a5e4-78f3c6cf1249","status":true,"trending":true,"categoryId":"087d5e7f-e477-48b1-a527-e0bb4711b2ba","mountSold":37,"price":6702800,"createdAt":368063686,"updatedAt":193610702},{"name":"T-Shirt black","description":"Pracy","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/2.webp","type":"Shirt","id":"18ca502b-62b8-47d8-bab9-e0204d0a1166","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":59,"price":3192775,"createdAt":1037666563,"updatedAt":215287305},{"name":"Áo thun ê bạn","description":"Guisby","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/20.jpg","type":"Tee","id":"58bab216-cec1-4fb8-82bb-606e67760f85","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":61,"price":6974460,"createdAt":76397628,"updatedAt":866893221},{"name":"Color loading * black","description":"Gheraldi","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/21.jpg","type":"Shirt","id":"e8ef4207-b73f-463a-b06e-60db9c884db1","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":55,"price":3715138,"createdAt":1174849378,"updatedAt":961434037},{"name":"Monogram polo - cream/green","description":"Gamwell","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/22.jpg","type":"Shirt","id":"c0d6a0d0-65a0-48e2-a959-088161ae8131","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":3,"price":7580216,"createdAt":380904885,"updatedAt":893703329},{"name":"Stand out - white tee","description":"Haggard","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/23.jpg","type":"Tee","id":"98a3cf2b-fb8c-446f-86f7-0b0ea22339bd","status":false,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":52,"price":1316243,"createdAt":967317035,"updatedAt":1094480169},{"name":"Color loading * grey","description":"Gheraldi","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/24.webp","type":"Tee","id":"06ebfc5e-379c-4b53-984f-0e7a29ab9425","status":false,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":18,"price":9465271,"createdAt":182863660,"updatedAt":1329709068},{"name":"Butterfly fire T-Shirt white","description":"Rotlauf","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/25.jpg","type":"Shirt","id":"1185d8f3-4a1d-4814-89a4-629dd39e6cbb","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":1,"price":2614388,"createdAt":423732279,"updatedAt":76099858},{"name":"The tobaco pants white","description":"Waren","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/26.jpg","type":"Shirt","id":"a5eaa4b8-07c6-4afe-9d34-721ec79d7713","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":51,"price":3937180,"createdAt":764208338,"updatedAt":990943722},{"name":"Pocket polo white","description":"Derell","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/27.jpg","type":"Tee","id":"d5fee263-c9d8-4bb4-a64e-5be80fded522","status":true,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":11,"price":9283777,"createdAt":985883328,"updatedAt":671415767},{"name":"Basic polo black","description":"Currin","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/28.jpg","type":"Shirt","id":"bab58f77-7420-49e8-b594-7d713b5f8157","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":36,"price":3526150,"createdAt":1324066201,"updatedAt":102773343},{"name":"Butterfly fire varsity ( DA 100% ) ","description":"Ramelet","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/29.webp","type":"Varsity","id":"d56a6753-c4bf-40bc-84da-22933247a11f","status":false,"trending":false,"categoryId":"9ade3acc-c425-4bc2-a1d3-3ac85b95b513","mountSold":20,"price":6959598,"createdAt":1238251366,"updatedAt":218749350},{"name":"Monogram polo - black","description":"Quiddihy","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg","type":"Shirt","id":"a9883546-d36d-44e7-ad0f-113186c49560","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":90,"price":653941,"createdAt":1076166645,"updatedAt":1428395050},{"name":"Monogram polo - grey","description":"Quiddihy","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg","type":"Shirt","id":"01db51c3-12c1-465f-ac85-97f22ebac866","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":76,"price":5692863,"createdAt":1445661134,"updatedAt":51772062},{"name":"Happiness T-Shirt 2021 black","description":"Stellino","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/2.webp","type":"Shirt","id":"8388925e-1887-4fec-9cd3-efc36ebcae09","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":92,"price":4914483,"createdAt":110711228,"updatedAt":252513265},{"name":"Basic polo green","description":"Twohig","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg","type":"Shirt","id":"2a3eb5b4-7df7-4ae4-be7a-fb3e06f7659c","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":20,"price":1229604,"createdAt":1126968035,"updatedAt":1346327512},{"name":"Basic crack white tee","description":"Derrett","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/34.jpg","type":"Shirt","id":"c1b3f1ec-d076-4da8-8edb-89abd98be8c9","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":25,"price":7732370,"createdAt":63613984,"updatedAt":780734670},{"name":"Butter - flower hoodie white","description":"Geane","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/35.jpg","type":"Hoodie","id":"88e78517-5a77-4584-8457-a78ce26a034d","status":true,"trending":true,"categoryId":"087d5e7f-e477-48b1-a527-e0bb4711b2ba","mountSold":62,"price":1606827,"createdAt":756868658,"updatedAt":559341671},{"name":"Basic july T-Shirt white","description":"McMurrugh","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/36.webp","type":"Shirt","id":"11ae68a4-6590-437c-9ac6-77e43b3de10c","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":97,"price":437145,"createdAt":645902642,"updatedAt":346716872},{"name":"Monogram polo - green","description":"Marchent","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/37.webp","type":"Shirt","id":"3816d907-b207-4f2e-a195-f6275fa4fea3","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":74,"price":7472544,"createdAt":239158092,"updatedAt":1311119369},{"name":"Butterfly shirt * black","description":"Sey","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/38.webp","type":"Shirt","id":"18eb4f2d-c8a6-4908-afdb-7cafdbd07dd6","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":54,"price":7683317,"createdAt":1063503691,"updatedAt":751443742},{"name":"Big logo monster white tee","description":"Rosthorn","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/39.webp","type":"Tee","id":"dcf3d55e-d839-4473-8c9c-7c44e174beaa","status":false,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":38,"price":7367748,"createdAt":1066112706,"updatedAt":964720223},{"name":"Graffiti v2 varsity black","description":"Markovic","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/40.webp","type":"Varsity","id":"7fb4bb20-91ab-42c5-9d27-446fbca0e6c4","status":true,"trending":false,"categoryId":"9ade3acc-c425-4bc2-a1d3-3ac85b95b513","mountSold":37,"price":7595751,"createdAt":1461182187,"updatedAt":1286896495},{"name":"T-Shirt flower leaf * black","description":"Gwilliams","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/4.webp","type":"Shirt","id":"558731dc-d5b3-4c3e-a5f4-7a41d7a1c58a","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":53,"price":2685436,"createdAt":1006413263,"updatedAt":314790886},{"name":"Basic june white tee","description":"Signoret","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/42.jpg","type":"Shirt","id":"098d7d4d-d6c2-4479-9fdf-1a7dffd82090","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":80,"price":4192265,"createdAt":397175062,"updatedAt":612492695},{"name":"Basic trousers black","description":"Fairhead","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/43.webp","type":"Tee","id":"c7537706-52e6-435a-9ced-f86b905c5a07","status":false,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":56,"price":9664203,"createdAt":515329270,"updatedAt":1264725972},{"name":"Back to school shirt ( long )","description":"Hazeldene","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/44.jpg","type":"Shirt","id":"a7cb835b-02a9-43f1-900f-971c7253b559","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":74,"price":1713223,"createdAt":668070815,"updatedAt":705433090},{"name":"Basic polo stripes brown","description":"McAlinion","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/45.jpg","type":"Shirt","id":"498dfc52-109c-4353-b783-1d40577b24c0","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":18,"price":2024364,"createdAt":597417668,"updatedAt":441486585},{"name":"Cheese T-Shirt blue 2021","description":"Orrock","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/1.webp","type":"Shirt","id":"addebdcf-3e9e-4c5f-96d7-01ebfb882770","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":92,"price":3363808,"createdAt":965731062,"updatedAt":970111947},{"name":"Pocket polo black","description":"Porkiss","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/47.webp","type":"Tee","id":"eca99598-0ba0-4b81-895e-a48df479d794","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":87,"price":1764622,"createdAt":1217686034,"updatedAt":775658232},{"name":"Monogram polo - white * green","description":"Teal","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/22.jpg","type":"Shirt","id":"c763632f-47bf-47d4-b116-4da627e55613","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":52,"price":2808668,"createdAt":125655869,"updatedAt":753807934},{"name":"Back to school shirt ( short )","description":"Kolinsky","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/49.jpg","type":"Shirt","id":"e12e87e7-f605-44dd-8da2-c6a368c7abbf","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":94,"price":1603422,"createdAt":938736741,"updatedAt":298532859},{"name":"Tee collab H&M x WAC ( We Are Campers ) * Black","description":"Northway","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/50.jpg","type":"Tee","id":"9dc34970-8542-42cc-85c0-34ff421fdc0a","status":true,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":85,"price":7379404,"createdAt":965113592,"updatedAt":6207554},{"name":"Basic july * black","description":"Sutterfield","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/51.webp","type":"Tee","id":"9328d4c1-0877-40a7-9925-37d1768bd6e6","status":true,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":4,"price":2077696,"createdAt":997510728,"updatedAt":497458959},{"name":"Baisc polo cream","description":"Calwell","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/37.webp","type":"Shirt","id":"4becb6d4-cb39-4f30-8bd3-8214b791836c","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":32,"price":8273457,"createdAt":6497768,"updatedAt":25796986},{"name":"Tee collab HEYYOU x WAC ( We Are Campers ) * white","description":"Fawcus","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/53.webp","type":"Tee","id":"d1157939-3e71-4a33-b5f8-c6f84e4a363b","status":true,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":8,"price":7493240,"createdAt":446737900,"updatedAt":807343575},{"name":"Heyyou rocket * white tee","description":"Godber","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/47.webp","type":"Tee","id":"e1098a42-bd85-4b3f-b6b7-51303d3c78b6","status":false,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":91,"price":1584128,"createdAt":307288777,"updatedAt":1270001898},{"name":"Heyyou hologram butterfly T-Shirt","description":"Sarfat","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/18.webp","type":"Shirt","id":"26d0c2ff-3e30-4cb3-8fd5-83e949941c81","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":73,"price":753881,"createdAt":58483865,"updatedAt":1047061944},{"name":"Diet drinks tee ́* white","description":"Delamaine","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/56.webp","type":"Tee","id":"825dd126-1228-4a6e-8cd7-0d4f269d16f7","status":true,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":43,"price":4060983,"createdAt":493550507,"updatedAt":54891944},{"name":"The tobaco pants cream","description":"Caldicott","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/57.jpg","type":"Pants","id":"488bc648-1eb3-47a9-be1b-77cd7144a904","status":false,"trending":true,"categoryId":"2ff6b506-6dd4-4d92-bbf6-d4466c034509","mountSold":3,"price":3145024,"createdAt":1251588571,"updatedAt":1100320818},{"name":"Basic line T-Shirt 2021 white/red","description":"Eayrs","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/58.webp","type":"Shirt","id":"a53312ea-4b72-4222-bc98-c51999ac4a9c","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":57,"price":8295663,"createdAt":1364991070,"updatedAt":906919198},{"name":"happiness t-Shirt 2021 blue","description":"Peppard","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/1.webp","type":"Shirt","id":"a01f8bab-7d1b-45d1-9425-6a9d71a8697f","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":10,"price":2453009,"createdAt":1296356279,"updatedAt":249350076},{"name":"Baisc polo white","description":"Clipston","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/60.jpg","type":"Shirt","id":"db5b9303-bdd9-48de-a6b3-df64755d391b","status":false,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":22,"price":1532976,"createdAt":636621866,"updatedAt":862436901},{"name":"Heyyou color layer 2021 t-Shirt yellow","description":"McGeachey","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/3.webp","type":"Shirt","id":"4686bcb9-a173-47a9-a9ef-333ffe086eb8","status":true,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":40,"price":787394,"createdAt":176274824,"updatedAt":417415823},{"name":"H&M color layer 2021 t-Shirt black","description":"Barber","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/63.jpg","type":"Shirt","id":"89701f9e-4d94-4801-8aeb-93ed0e848026","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":94,"price":7607082,"createdAt":1188385833,"updatedAt":794267711},{"name":"TOTE Heyyou","description":"Hollingsbee","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/64.webp","type":"Accessory","id":"d004dd06-8b9e-48c8-a1dd-d37c56914a2a","status":true,"trending":true,"categoryId":"b0389f79-44f5-437f-802d-930f8b8c762c","mountSold":29,"price":6140973,"createdAt":800255472,"updatedAt":225305542},{"name":"Heyyou zombie white tee","description":"Vaggers","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/65.webp","type":"Tee","id":"de289f28-039d-4b55-9795-f114e3f789ce","status":true,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":27,"price":8041085,"createdAt":962187819,"updatedAt":1125489272},{"name":"H&M big logo smoke black tee","description":"Horry","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/66.jpg","type":"Tee","id":"007d5cd2-21f9-4bdf-86e9-213e1cb0997e","status":true,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":4,"price":7586543,"createdAt":528874886,"updatedAt":864612008},{"name":"Heyyou butterfly barsity baby blue","description":"Skiplorne","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/18.webp","type":"Hoodie","id":"4f86fe27-8908-4f37-ad1c-5e2726d24485","status":false,"trending":false,"categoryId":"087d5e7f-e477-48b1-a527-e0bb4711b2ba","mountSold":54,"price":947103,"createdAt":60333145,"updatedAt":263569176},{"name":"T-shirt butterfly * white","description":"Flacknell","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/68.jpg","type":"Shirt","id":"443fffdf-8380-49eb-811e-c33c0d6b8d76","status":true,"trending":true,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":21,"price":7864448,"createdAt":604918879,"updatedAt":336223487},{"name":"Heyyou the tobaco pants black","description":"Maudlin","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/69.webp","type":"Pants","id":"92e12883-f3ce-414e-9c06-f78b4d965b3c","status":true,"trending":true,"categoryId":"2ff6b506-6dd4-4d92-bbf6-d4466c034509","mountSold":24,"price":2992770,"createdAt":965251567,"updatedAt":174105585},{"name":"Heyyou the tobaco pants white","description":"Chrichton","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/70.webp","type":"Pants","id":"f20cd6ba-109e-41ee-847b-105bde2a2c51","status":false,"trending":true,"categoryId":"2ff6b506-6dd4-4d92-bbf6-d4466c034509","mountSold":16,"price":3395982,"createdAt":404832862,"updatedAt":646878761},{"name":"Heyyou the tobaco pants creams","description":"Conaghan","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/71.webp","type":"Pants","id":"e9916354-233e-426b-a8fa-f15d2bcdaa22","status":true,"trending":false,"categoryId":"2ff6b506-6dd4-4d92-bbf6-d4466c034509","mountSold":71,"price":8495904,"createdAt":26016576,"updatedAt":606619938},{"name":"H&M butterfly fire hoodie white","description":"Goymer","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/72.jpg","type":"Hoodie","id":"e2c3ee9a-7207-417d-affd-061a651df9d4","status":false,"trending":true,"categoryId":"087d5e7f-e477-48b1-a527-e0bb4711b2ba","mountSold":82,"price":463917,"createdAt":1042871453,"updatedAt":613497399},{"name":"H&M bút chì màu T-shirt white","description":"Aylott","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/73.jpg","type":"Shirt","id":"b1e12165-bfda-4bdc-9176-05af78c0c535","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":32,"price":4804413,"createdAt":44651236,"updatedAt":863325038},{"name":"Heyyou water * white tee","description":"Anning","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/74.webp","type":"Tee","id":"2162830f-7700-4e78-98af-0a9a774ce8d9","status":true,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":36,"price":74050,"createdAt":1002213941,"updatedAt":392402094},{"name":"H&M big logo smoke yellow tee","description":"MacMenemy","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/75.webp","type":"Tee","id":"16af05db-f10b-4c56-8638-3f9b79503f9c","status":false,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":45,"price":416182,"createdAt":767988796,"updatedAt":488406390},{"name":"H&M buuter - flower shirt white/short","description":"Mokes","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/76.jpg","type":"Shirt","id":"dc34c38b-f89c-4fa9-8cea-ca710d1cb332","status":false,"trending":false,"categoryId":"3370afd9-3e6e-4586-82cc-a25bfb923e72","mountSold":94,"price":4351699,"createdAt":556470986,"updatedAt":799860736},{"name":"Heyyou zombie white tee","description":"Kilmaster","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/65.webp","type":"Tee","id":"dc6a91c2-6268-44b0-a68f-402459158008","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":99,"price":9856903,"createdAt":639495970,"updatedAt":140092356},{"name":"Heyyou butter - flower white tee","description":"Creeboe","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/5.webp","type":"Tee","id":"4438b4b7-3491-4bb5-b015-190ddbb8e897","status":true,"trending":false,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":96,"price":2372184,"createdAt":1202823944,"updatedAt":414817478},{"name":"Heyyou pocket polo green","description":"Stabler","imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/47.webp","type":"Tee","id":"6266e6df-a2c9-4db7-a1ac-1914a9b170b9","status":false,"trending":true,"categoryId":"67c0ae57-6f49-4977-b7fa-10486730b4cc","mountSold":48,"price":6088078,"createdAt":982895953,"updatedAt":1062017815}],"sliders":[{"id":1,"imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/Slider_1.jpg","createdAt":37564835,"updatedAt":899931430},{"id":2,"imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/Slider_2_1.jpg","createdAt":1195730930,"updatedAt":370677917},{"id":3,"imageUrl":"https://js-ecommerce-api.herokuapp.com/asset/img/Slider_3.jpg","createdAt":887398977,"updatedAt":1007967353}],"profile":{"name":"ThaiPei"}}
+{
+  "categories": [
+    {
+      "name": "Pants",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-1.png",
+      "subTitle": "Style yourself with these unique pants",
+      "slide": "https://js-ecommerce-api.herokuapp.com/asset/img/category_slide_1.jpg",
+      "id": "6a1faf21-9ed9-4581-8b9d-ccc2f9b175c0",
+      "createdAt": 1082228379,
+      "updatedAt": 441397096
+    },
+    {
+      "name": "Varsity",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-2.png",
+      "subTitle": "Shine in your style",
+      "slide": "https://js-ecommerce-api.herokuapp.com/asset/img/category_slide_1.jpg",
+      "id": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "createdAt": 1117291974,
+      "updatedAt": 740704660
+    },
+    {
+      "name": "Tee",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-3.png",
+      "subTitle": "Simple but not ordinary",
+      "slide": "https://js-ecommerce-api.herokuapp.com/asset/img/category_slide_1.jpg",
+      "id": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "createdAt": 26713525,
+      "updatedAt": 856623356
+    },
+    {
+      "name": "Hoodie",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-4.jpg",
+      "subTitle": "Create your own winter style",
+      "slide": "https://js-ecommerce-api.herokuapp.com/asset/img/category_slide_1.jpg",
+      "id": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "createdAt": 441550302,
+      "updatedAt": 855595248
+    },
+    {
+      "name": "Shirt",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-5.png",
+      "subTitle": "Go sporty this summer with this vintage navy",
+      "slide": "https://js-ecommerce-api.herokuapp.com/asset/img/category_slide_1.jpg",
+      "id": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "createdAt": 843831425,
+      "updatedAt": 925877467
+    },
+    {
+      "name": "Accessory",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/categories_image-6.webp",
+      "subTitle": "Small things sometimes help us a lot",
+      "slide": "https://js-ecommerce-api.herokuapp.com/asset/img/category_slide_1.jpg",
+      "id": "f281e7ec-684f-4a48-aeb9-2f54da0b710f",
+      "createdAt": 401640644,
+      "updatedAt": 207646119
+    }
+  ],
+  "products": [
+    {
+      "name": "HEYYOU FLANNEL #2",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_1.webp"
+      ],
+      "type": "Shirt",
+      "id": "e534f47b-6665-48bf-af8d-3d8793b388e8",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 80,
+      "price": 1,
+      "createdAt": 1116225817,
+      "updatedAt": 336912918
+    },
+    {
+      "name": "HEYYOU FLANNEL #4",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_2.webp"
+      ],
+      "type": "Shirt",
+      "id": "a140e274-cc53-4b42-9dbf-93ab37abea84",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 60,
+      "price": 13,
+      "createdAt": 452432082,
+      "updatedAt": 271389632
+    },
+    {
+      "name": "HEYYOU FLANNEL #8",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/3.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/3.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_3.webp"
+      ],
+      "type": "Shirt",
+      "id": "a6346005-a99f-4450-98d2-119eb22d29ec",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 32,
+      "price": 9,
+      "createdAt": 656847334,
+      "updatedAt": 1350072126
+    },
+    {
+      "name": "HEYYOU FLANNEL #6",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used... ",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/4.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/4.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_2.webp"
+      ],
+      "type": "Shirt",
+      "id": "e8acbc01-64b5-45b7-8dde-f5114a5d0c01",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 56,
+      "price": 6,
+      "createdAt": 1308518735,
+      "updatedAt": 515252396
+    },
+    {
+      "name": "BUTTERFLY LONG WHITE SHIRT",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: BUTTERFLY LONG WHITE SHIRT* Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch is custom-woven according to the company's standards.* Printing technique:...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_5.webp"
+      ],
+      "type": "Shirt",
+      "id": "21d8fe4e-dc49-48a7-80be-d9828a04dfda",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 31,
+      "price": 3,
+      "createdAt": 616399018,
+      "updatedAt": 863820580
+    },
+    {
+      "name": "VINTAGE GREEN SHORT",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: VINTAGE GREEN SHORT* Color: Green * Size: Size M | Size L | Size XL. * Material: Cotton Felt * Technique: The product is used embroidery technique. Information on how to properly preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/6.jpg",
+      "type": "Pants",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/6.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_6.webp"
+      ],
+      "id": "7b1dbc19-e6a4-4779-a700-8930938dfe0b",
+      "status": true,
+      "trending": true,
+      "categoryId": "6a1faf21-9ed9-4581-8b9d-ccc2f9b175c0",
+      "mountSold": 21,
+      "price": 10,
+      "createdAt": 1363582338,
+      "updatedAt": 1246480418
+    },
+    {
+      "name": "BASIC TEE",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/7.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/7.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_7.webp"
+      ],
+      "type": "Tee",
+      "id": "34bbf056-6434-4290-aa1f-e5ee7b260a08",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 28,
+      "price": 10,
+      "createdAt": 1079855463,
+      "updatedAt": 1285341591
+    },
+    {
+      "name": "ESSENTIAL BABY BLUE HOODIE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: ESSENTIAL BABY BLUE HOODIE* Shirt Color: Light Blue* Size: Size M | Size L | Size XL. * Material: Cotton Felt * Printing Technique: The product is used embroidery technique. Information on how to preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/8.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/8.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_8.webp"
+      ],
+      "type": "Hoodie",
+      "id": "5b823ba5-666b-46a9-9ed5-18896c02dce1",
+      "status": true,
+      "trending": true,
+      "categoryId": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "mountSold": 46,
+      "price": 8,
+      "createdAt": 1119981332,
+      "updatedAt": 871301119
+    },
+    {
+      "name": "HEYYOU FLANNEL #2",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_1.webp"
+      ],
+      "type": "Shirt",
+      "id": "a6db6e73-50d0-4abf-8e47-cf87c927d5fa",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 11,
+      "price": 11,
+      "createdAt": 1292569632,
+      "updatedAt": 59944370
+    },
+    {
+      "name": "FIREWORK WHITE TEE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: FIREWORK WHITE TEE* Color: White* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch fabric, woven separately according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/10.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/10.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_10.webp"
+      ],
+      "type": "Tee",
+      "id": "ca0b4b2b-146a-42d2-acf6-e636455dbf40",
+      "status": true,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 8,
+      "price": 10,
+      "createdAt": 552444337,
+      "updatedAt": 585487504
+    },
+    {
+      "name": "BASIC TEE",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/7.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/7.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_7.webp"
+      ],
+      "type": "Tee",
+      "id": "6319f3ff-b98d-4464-9c5f-f503b92c4dac",
+      "status": true,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 52,
+      "price": 12,
+      "createdAt": 708216099,
+      "updatedAt": 960813142
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Varsity",
+      "id": "3068b43b-7ebd-48d3-bb52-4596bb019d25",
+      "status": true,
+      "trending": false,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 52,
+      "price": 2,
+      "createdAt": 977434321,
+      "updatedAt": 1416360783
+    },
+    {
+      "name": "HEYYOU BASIC STRIPES GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: HEYYOU BASIC POLO STRIPES GREEN * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Polo Fabric The bird's eye is custom-woven according to the company's standards.* Printing technique:...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/13.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/13.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_13.webp"
+      ],
+      "type": "Varsity",
+      "id": "6796db41-a07b-44f8-93d6-791005f4d4f5",
+      "status": false,
+      "trending": true,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 84,
+      "price": 4,
+      "createdAt": 273108834,
+      "updatedAt": 1146519714
+    },
+    {
+      "name": "HEYYOU FLANNEL #4",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_2.webp"
+      ],
+      "type": "Shirt",
+      "id": "1a1062da-d378-4df5-b67e-aa98a0323ff9",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 53,
+      "price": 6,
+      "createdAt": 1010749457,
+      "updatedAt": 166516236
+    },
+    {
+      "name": "BUTTERFLY LONG WHITE SHIRT",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: BUTTERFLY LONG WHITE SHIRT* Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch is custom-woven according to the company's standards.* Printing technique:...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_5.webp"
+      ],
+      "type": "Shirt",
+      "id": "6c353ac7-8ec3-4242-aba1-f1f953aed95d",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 79,
+      "price": 7,
+      "createdAt": 47819199,
+      "updatedAt": 1018828076
+    },
+    {
+      "name": "Classic Drink * white",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: CLASSIC DRINK Shirt * Color: WHITE. * Size: Size M | Size L | Size XL. * Material: Velvet, checked for quality according to company standards.* Printing technique: Product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/16.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/16.webp"
+      ],
+      "type": "Shirt",
+      "id": "6c3af191-331d-461d-86ba-0669d6f43e73",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 81,
+      "price": 9,
+      "createdAt": 511707417,
+      "updatedAt": 1122351479
+    },
+    {
+      "name": "HEYYOU POCKET GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!_ Product name: HEYYOU POCKET POLO GREENK _ Shirt Color: Green. _ Size: Size M | Size L | Size XL. _ Material: Eye Polo Fabric Birds are individually woven according to the company's standards.* Printing technique: Produce...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/17.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/17.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_17.webp"
+      ],
+      "type": "Shirt",
+      "id": "7dfb9905-d775-4776-93b3-717c84566533",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 62,
+      "price": 6,
+      "createdAt": 117953281,
+      "updatedAt": 268000132
+    },
+    {
+      "name": "HEYYOU FIRE BUTTERFLY WHITE HOODIE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU FIRE BUTTERFLY WHITE HOODIE * Shirt Color: White * Material: 4-way stretch cotton, individually woven according to the company's standards. * Printing technique: The product is used manual silkscreen printing technique.Thong...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_18.webp"
+      ],
+      "type": "Hoodie",
+      "id": "193c1c93-0c41-43c4-b5be-1c26871effff",
+      "status": true,
+      "trending": true,
+      "categoryId": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "mountSold": 0,
+      "price": 7,
+      "createdAt": 1298427040,
+      "updatedAt": 1371213046
+    },
+    {
+      "name": "HEYYOU FLANNEL #4",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_2.webp"
+      ],
+      "type": "Shirt",
+      "id": "79719243-9149-4d8b-ba44-41e1cfe4d595",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 42,
+      "price": 14,
+      "createdAt": 904155534,
+      "updatedAt": 649644247
+    },
+    {
+      "name": "Áo thun ê bạn",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: T-shirt, Friend * Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to company standards.* Printing technique: Product is used ...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/20.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/20.jpg"],
+      "type": "Tee",
+      "id": "a930d950-8e81-492b-8072-90e4d1db58f4",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 91,
+      "price": 14,
+      "createdAt": 410850673,
+      "updatedAt": 952640969
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Varsity",
+      "id": "712527bf-361c-4bcc-b363-ec43ee7d0e4b",
+      "status": false,
+      "trending": false,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 90,
+      "price": 11,
+      "createdAt": 941547100,
+      "updatedAt": 1338206732
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Varsity",
+      "id": "52552156-7fa0-4c8e-9329-7a76f15bf507",
+      "status": false,
+      "trending": true,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 96,
+      "price": 13,
+      "createdAt": 838270909,
+      "updatedAt": 668485443
+    },
+    {
+      "name": "Stand out - white tee",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: STAND OUT * Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric is ordered woven according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/23.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/23.jpg"],
+      "type": "Tee",
+      "id": "65e545d5-560b-42f7-acf8-ca225d7d64fe",
+      "status": false,
+      "trending": true,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 39,
+      "price": 13,
+      "createdAt": 253732643,
+      "updatedAt": 730979611
+    },
+    {
+      "name": "ESSENTIAL WASH TEE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: ESSENTIAL WASH TEE* Color: WASH Color* Size: Size M | Size L | Size XL. * Material: 100% Cotton 2-way stretch is ordered woven according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/24.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/24.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_24.webp"
+      ],
+      "type": "Tee",
+      "id": "5b2d3352-e334-403d-b80d-8b1075f80769",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 52,
+      "price": 12,
+      "createdAt": 1303767682,
+      "updatedAt": 941754570
+    },
+    {
+      "name": "MONOGRAM WHITE POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric is ordered woven according to the company's standards.* Printing technique: The product is used ...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/25.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/25.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_25.webp"
+      ],
+      "type": "Shirt",
+      "id": "f68b28c5-54a7-4cc3-a271-c7e8d99b5868",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 16,
+      "price": 7,
+      "createdAt": 291028243,
+      "updatedAt": 856899770
+    },
+    {
+      "name": "T-Shirt black",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: T-SHIRT * Shirt Color: Black. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric custom weave according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/26.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/26.jpg"],
+      "type": "Shirt",
+      "id": "1db50846-1756-4e07-80b4-1c6579fb6425",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 29,
+      "price": 6,
+      "createdAt": 878579086,
+      "updatedAt": 1030462751
+    },
+    {
+      "name": "HEYYOU BUTTERFLY FIRE VARSITY ( DA 100% )",
+      "description": "Description:HEYYOU - NATIONAL TRADE !!!* Product name: HEYYOU BUTTERFLY FIRE VARSITY * Shirt color: White * Material: 100% leather is custom-made according to company standards.* Printing technique : The product is used manual silk-screen printing technique. Information on how to preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/27.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/27.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_27.webp"
+      ],
+      "type": "Shirt",
+      "id": "381706bd-1528-46e0-a562-876b8afa9435",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 5,
+      "price": 6,
+      "createdAt": 927246619,
+      "updatedAt": 649690895
+    },
+    {
+      "name": "MONOGRAM BLACK POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: MONOGRAM POLO BLACK * Shirt Color: Black. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/28.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/28.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_28.webp"
+      ],
+      "type": "Shirt",
+      "id": "8d275905-1be5-4f38-949d-8fe572aed437",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 50,
+      "price": 4,
+      "createdAt": 1152998952,
+      "updatedAt": 183006564
+    },
+    {
+      "name": "HEYYOU BUTTERFLY FIRE VARSITY ( DA 100% )",
+      "description": "Description:HEYYOU - NATIONAL TRADE !!!* Product name: HEYYOU BUTTERFLY FIRE VARSITY * Shirt color: White * Material: 100% leather is custom-made according to company standards.* Printing technique : The product is used manual silk-screen printing technique. Information on how to preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/27.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/27.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_27.webp"
+      ],
+      "type": "Shirt",
+      "id": "fac019b8-b9e5-41a8-b3cc-9ff7046fb922",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 22,
+      "price": 10,
+      "createdAt": 312280711,
+      "updatedAt": 423901384
+    },
+    {
+      "name": "T-Shirt green",
+      "description": "Description:HEYYOU - NATIONAL TRADE !!!* Product Name: T-SHIRT * Shirt Color: Green * Material: 100% leather is custom-made according to company standards.* Printing technique : The product is used manual silk-screen printing technique. Information on how to preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg"],
+      "type": "Shirt",
+      "id": "74adab4d-e88f-484b-bb84-9cc6fd0fc7d7",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 62,
+      "price": 11,
+      "createdAt": 108705945,
+      "updatedAt": 1415694456
+    },
+    {
+      "name": "T-Shirt green",
+      "description": "Description:HEYYOU - NATIONAL TRADE !!!* Product Name: T-SHIRT * Shirt Color: Green * Material: 100% leather is custom-made according to company standards.* Printing technique : The product is used manual silk-screen printing technique. Information on how to preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg"],
+      "type": "Shirt",
+      "id": "fa731d71-eca2-4320-a43f-5a30413adb66",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 9,
+      "price": 6,
+      "createdAt": 1316926453,
+      "updatedAt": 1132740968
+    },
+    {
+      "name": "HEYYOU FLANNEL #4",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_2.webp"
+      ],
+      "type": "Shirt",
+      "id": "87fd3819-c8ba-414b-ba2d-9ce912301a44",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 81,
+      "price": 5,
+      "createdAt": 1363540416,
+      "updatedAt": 667269458
+    },
+    {
+      "name": "T-Shirt green",
+      "description": "Description:HEYYOU - NATIONAL TRADE !!!* Product Name: T-SHIRT * Shirt Color: Green * Material: 100% leather is custom-made according to company standards.* Printing technique : The product is used manual silk-screen printing technique. Information on how to preserve the product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/30.jpg"],
+      "type": "Shirt",
+      "id": "dfbb7107-bce9-407e-9b3f-793da0babe21",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 10,
+      "price": 9,
+      "createdAt": 1430391231,
+      "updatedAt": 372616808
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Shirt",
+      "id": "b9365c54-5116-4477-a044-7d2689cf52f6",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 40,
+      "price": 13,
+      "createdAt": 1308873706,
+      "updatedAt": 1239905136
+    },
+    {
+      "name": "Long sleeve shirt",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: LONG SLEEVE SHIRT * Shirt Color: Black. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/35.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/35.jpg"],
+      "type": "Shirt",
+      "id": "e6dabf62-9908-48a8-9904-32096bc7ff05",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 48,
+      "price": 2,
+      "createdAt": 1177513201,
+      "updatedAt": 169470232
+    },
+    {
+      "name": "PINK SKETCH TEE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: PINK SKETCH TEE* Shirt Color: Black / White. * Size: Size M | Size L | Size XL. * Material: 100% 4-way stretch cotton is custom-woven according to the company's standards.*...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/36.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/36.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_36.webp"
+      ],
+      "type": "Tee",
+      "id": "48aa632d-44d4-4dc0-b232-5d6370dabf79",
+      "status": true,
+      "trending": true,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 27,
+      "price": 13,
+      "createdAt": 1428305753,
+      "updatedAt": 973808212
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Varsity",
+      "id": "ddb065cd-c933-4489-b601-bf7f81e68101",
+      "status": false,
+      "trending": false,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 75,
+      "price": 14,
+      "createdAt": 6988157,
+      "updatedAt": 113928192
+    },
+    {
+      "name": "HEYYOU BUTTERFLY TEE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU BUTTERFLY TEE* Shirt Color: Black / White. * Size: Size M | Size L | Size XL. * Material: 100% 4-way stretch cotton is custom-woven according to company standards.*...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/38.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/38.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_38.webp"
+      ],
+      "type": "Shirt",
+      "id": "8a45140c-9001-4521-bab4-b04b95184ab7",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 27,
+      "price": 8,
+      "createdAt": 1359698043,
+      "updatedAt": 709312144
+    },
+    {
+      "name": "CREAM MONSTERS BLACK TEE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: CREAM MONSTERS BLACK TEE * Color: Black * Size: Size M | Size L | Size XL. * Material: 100% Stretch Cotton 4 dimensions are individually woven according to the company's standards.* Printing technique: Product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/39.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/39.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_39.webp"
+      ],
+      "type": "Tee",
+      "id": "e25acd26-96c2-4e53-93c5-5af71b2f0735",
+      "status": true,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 62,
+      "price": 2,
+      "createdAt": 483790512,
+      "updatedAt": 611921580
+    },
+    {
+      "name": "HEYYOU CHECK VARSITY",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU CHECK VARSITY * Shirt Color: Black Blue Caro. * Material: 100% leather is custom-made according to company standards.* Technique Printing: The product is used manual silk-screen printing technique. Information on how to preserve...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/40.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/40.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_40.jpg"
+      ],
+      "type": "Varsity",
+      "id": "23d208db-fedc-4f02-870e-b93b8ffae8e7",
+      "status": false,
+      "trending": false,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 11,
+      "price": 12,
+      "createdAt": 375247156,
+      "updatedAt": 324851415
+    },
+    {
+      "name": "HEYYOU FLANNEL #4",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/2.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_2.webp"
+      ],
+      "type": "Shirt",
+      "id": "1b07fd90-d083-4a92-9dfa-12a8b479a141",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 83,
+      "price": 14,
+      "createdAt": 743126656,
+      "updatedAt": 529153477
+    },
+    {
+      "name": "Basic june brown shirt",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: BASIC JUNE BROWN SHIRT * Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to company standards.* Printing technique: The product is used ...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/42.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/42.jpg"],
+      "type": "Shirt",
+      "id": "2661928f-9949-479e-8e74-6263f6f3e593",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 16,
+      "price": 9,
+      "createdAt": 539913500,
+      "updatedAt": 602899051
+    },
+    {
+      "name": "PINK SKETCH TEE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: PINK SKETCH TEE* Shirt Color: Black / White. * Size: Size M | Size L | Size XL. * Material: 100% 4-way stretch cotton is custom-woven according to the company's standards.*...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/43.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/43.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_43.webp"
+      ],
+      "type": "Tee",
+      "id": "04c74e54-e9c5-4062-9707-c8cfddee5241",
+      "status": false,
+      "trending": true,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 6,
+      "price": 4,
+      "createdAt": 864196152,
+      "updatedAt": 868503124
+    },
+    {
+      "name": "Back to school shirt ( small )",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: BACK TO SCHOOL SHIRT (SMALL)* Shirt Color: Black. * Size: Size M | Size L | Size XL. * Material: 100 % Cotton 4-way stretch is custom-woven according to the company's standards.*...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/44.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/44.jpg"],
+      "type": "Shirt",
+      "id": "c5846890-cf3a-4455-99a2-02fcb670fa3d",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 82,
+      "price": 9,
+      "createdAt": 241782761,
+      "updatedAt": 863379409
+    },
+    {
+      "name": "MONOGRAM WHITE POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric is ordered woven according to the company's standards.* Printing technique: The product is used ...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/25.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/25.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_25.webp"
+      ],
+      "type": "Shirt",
+      "id": "261f269a-5aa4-433d-8343-234ae299c020",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 97,
+      "price": 2,
+      "createdAt": 1358349382,
+      "updatedAt": 811860925
+    },
+    {
+      "name": "HEYYOU FLANNEL #2",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_1.webp"
+      ],
+      "type": "Shirt",
+      "id": "1e05e5b1-c6ec-472d-bab8-db994e87335d",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 79,
+      "price": 10,
+      "createdAt": 1178805454,
+      "updatedAt": 188320538
+    },
+    {
+      "name": "FIREWORK WHITE TEE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: FIREWORK WHITE TEE* Color: White* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch fabric, woven separately according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/47.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/47.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_47.webp"
+      ],
+      "type": "Tee",
+      "id": "a49c3921-9ad0-4136-8654-115248fe67d0",
+      "status": true,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 2,
+      "price": 7,
+      "createdAt": 367387946,
+      "updatedAt": 875749968
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Varsity",
+      "id": "11efad88-f572-4ecd-949b-46b34de8162a",
+      "status": true,
+      "trending": true,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 72,
+      "price": 3,
+      "createdAt": 1361018337,
+      "updatedAt": 854971173
+    },
+    {
+      "name": "Back to school shirt ( short )",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/49.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/49.jpg"],
+      "type": "Shirt",
+      "id": "24710c77-9927-4261-a44c-de8484394c0b",
+      "status": true,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 45,
+      "price": 8,
+      "createdAt": 887397569,
+      "updatedAt": 265580657
+    },
+    {
+      "name": "Tee collab H&M x WAC ( We Are Campers ) * Black",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/50.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/50.jpg"],
+      "type": "Tee",
+      "id": "55fcdb90-2584-49b2-92d5-c9b16aadd4b0",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 14,
+      "price": 8,
+      "createdAt": 1328147372,
+      "updatedAt": 1268313047
+    },
+    {
+      "name": "PINK SKETCH TEE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: PINK SKETCH TEE* Shirt Color: Black / White. * Size: Size M | Size L | Size XL. * Material: 100% 4-way stretch cotton is custom-woven according to the company's standards.*...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/43.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/43.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_43.webp"
+      ],
+      "type": "Tee",
+      "id": "79120ad5-14bd-4b8f-b25f-38b9c1af9b17",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 99,
+      "price": 1,
+      "createdAt": 1345644096,
+      "updatedAt": 1330029945
+    },
+    {
+      "name": "MONOGRAM GREEN POLO",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: MONOGRAM POLO * Shirt Color: Green. * Size: Size M | Size L | Size XL. * Material: Bird's Eye Polo Fabric Custom weave according to company standards.* Printing technique: Products are…",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/12.jpg",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_12.webp"
+      ],
+      "type": "Varsity",
+      "id": "0d52753c-0edd-4d5b-ab79-19b6a166c5cb",
+      "status": true,
+      "trending": false,
+      "categoryId": "1d6a0d91-8bef-478a-b060-0d7f164c0137",
+      "mountSold": 34,
+      "price": 14,
+      "createdAt": 565738991,
+      "updatedAt": 618923092
+    },
+    {
+      "name": "Tee collab HEYYOU x WAC ( We Are Campers ) * white",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: Tee collab HEYYOU x WAC ( We Are Campers ) * white * Shirt Color: White * Size: Size M | Size L | Size XL. * Material: The bird's eye polo fabric is custom woven according to the company's standards.* Printing technique: The product is ...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/53.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/53.webp"
+      ],
+      "type": "Tee",
+      "id": "99ef5b55-af23-43d6-90ca-2bd528368730",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 90,
+      "price": 13,
+      "createdAt": 1306776741,
+      "updatedAt": 825497734
+    },
+    {
+      "name": "FIREWORK WHITE TEE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: FIREWORK WHITE TEE* Color: White* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch fabric, woven separately according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/47.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/47.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_47.webp"
+      ],
+      "type": "Tee",
+      "id": "7be4def2-5279-43cd-9629-c4da3e3a28cc",
+      "status": true,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 7,
+      "price": 6,
+      "createdAt": 919988070,
+      "updatedAt": 1045270766
+    },
+    {
+      "name": "HEYYOU FIRE BUTTERFLY WHITE HOODIE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU FIRE BUTTERFLY WHITE HOODIE * Shirt Color: White * Material: 4-way stretch cotton, individually woven according to the company's standards. * Printing technique: The product is used manual silkscreen printing technique.Thong...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_18.webp"
+      ],
+      "type": "Hoodie",
+      "id": "1b9acf8b-7b6c-427a-8ce3-0cdf3dfef891",
+      "status": true,
+      "trending": false,
+      "categoryId": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "mountSold": 76,
+      "price": 11,
+      "createdAt": 771102638,
+      "updatedAt": 356436953
+    },
+    {
+      "name": "Diet drinks tee ́* white",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/56.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/56.webp"
+      ],
+      "type": "Tee",
+      "id": "8c68ac33-57ce-4387-b5a8-781b58749cd8",
+      "status": true,
+      "trending": true,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 17,
+      "price": 15,
+      "createdAt": 749998667,
+      "updatedAt": 1203003107
+    },
+    {
+      "name": "The tobaco pants cream",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/57.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/57.jpg"],
+      "type": "Pants",
+      "id": "a6b6ff58-abb5-434f-8f98-bb16f0aaa092",
+      "status": false,
+      "trending": false,
+      "categoryId": "6a1faf21-9ed9-4581-8b9d-ccc2f9b175c0",
+      "mountSold": 7,
+      "price": 11,
+      "createdAt": 807549879,
+      "updatedAt": 203827059
+    },
+    {
+      "name": "BASIC RED TEE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: BASIC RED TEE* Color: Red* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch fabric, woven separately according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/58.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/58.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_58.webp"
+      ],
+      "type": "Shirt",
+      "id": "f845add1-4205-4f4e-8200-5ab4db1d9ab2",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 10,
+      "price": 4,
+      "createdAt": 1156110734,
+      "updatedAt": 644384926
+    },
+    {
+      "name": "HEYYOU FLANNEL #2",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/1.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_1.webp"
+      ],
+      "type": "Shirt",
+      "id": "dd4a54e4-874b-42c7-96a1-0c0cbe7360e5",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 68,
+      "price": 10,
+      "createdAt": 770539438,
+      "updatedAt": 336707874
+    },
+    {
+      "name": "Baisc polo white",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/60.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/60.jpg"],
+      "type": "Shirt",
+      "id": "b6ebfcbe-b301-47af-b10b-8ee957d5ae84",
+      "status": false,
+      "trending": true,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 75,
+      "price": 10,
+      "createdAt": 957316474,
+      "updatedAt": 126265839
+    },
+    {
+      "name": "HEYYOU FLANNEL #8",
+      "description": "Description:HEYYOU - NATIONAL BRAND!!!* Product Name: HEYYOU FLANNEL* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/3.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/3.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_3.webp"
+      ],
+      "type": "Shirt",
+      "id": "b7b5a0a7-8833-4b23-843a-06a96b4ab247",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 4,
+      "price": 13,
+      "createdAt": 131211233,
+      "updatedAt": 852901624
+    },
+    {
+      "name": "H&M color layer 2021 t-Shirt black",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/63.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/63.jpg"],
+      "type": "Shirt",
+      "id": "ace4d869-39e1-4b70-9932-66f6e682f637",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 5,
+      "price": 13,
+      "createdAt": 1390654521,
+      "updatedAt": 282559176
+    },
+    {
+      "name": "TOTE Heyyou",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/64.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/64.webp"
+      ],
+      "type": "Accessory",
+      "id": "be773bc5-9889-4d5d-befd-d6b24e696457",
+      "status": true,
+      "trending": true,
+      "categoryId": "f281e7ec-684f-4a48-aeb9-2f54da0b710f",
+      "mountSold": 0,
+      "price": 8,
+      "createdAt": 944549493,
+      "updatedAt": 648680157
+    },
+    {
+      "name": "Heyyou zombie white tee",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_65.webp"
+      ],
+      "type": "Tee",
+      "id": "7ae5e723-d87b-4dc0-b506-b25cf1b4c01c",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 36,
+      "price": 2,
+      "createdAt": 1191587428,
+      "updatedAt": 883889647
+    },
+    {
+      "name": "BUTTERFLY LONG WHITE SHIRT",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: BUTTERFLY LONG WHITE SHIRT* Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch is custom-woven according to the company's standards.* Printing technique:...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_5.webp"
+      ],
+      "type": "Shirt",
+      "id": "a8cdd42b-a067-4c11-9d3a-b64906bcd0f7",
+      "status": true,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 65,
+      "price": 5,
+      "createdAt": 861793070,
+      "updatedAt": 127746823
+    },
+    {
+      "name": "HEYYOU FIRE BUTTERFLY WHITE HOODIE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU FIRE BUTTERFLY WHITE HOODIE * Shirt Color: White * Material: 4-way stretch cotton, individually woven according to the company's standards. * Printing technique: The product is used manual silkscreen printing technique.Thong...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_18.webp"
+      ],
+      "type": "Hoodie",
+      "id": "dbfc0cc6-a0e4-4995-8d97-62103b293006",
+      "status": false,
+      "trending": true,
+      "categoryId": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "mountSold": 96,
+      "price": 11,
+      "createdAt": 593185022,
+      "updatedAt": 194465758
+    },
+    {
+      "name": "HEYYOU FIRE BUTTERFLY WHITE HOODIE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU FIRE BUTTERFLY WHITE HOODIE * Shirt Color: White * Material: 4-way stretch cotton, individually woven according to the company's standards. * Printing technique: The product is used manual silkscreen printing technique.Thong...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/18.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_18.webp"
+      ],
+      "type": "Hoodie",
+      "id": "f9fe2c7a-b848-48d3-b31e-b0ce688231b4",
+      "status": true,
+      "trending": true,
+      "categoryId": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "mountSold": 29,
+      "price": 6,
+      "createdAt": 938254610,
+      "updatedAt": 320179818
+    },
+    {
+      "name": "HEYYOU THE TOBACO BLACK PANTS",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: HEYYOU THE TOBACO BLACK PANTS * Shirt Color: Black * Material: Velvet cotton is custom-woven according to company standards.* Technique Printing: The product is used manual silkscreen printing technique. Information on how to...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/69.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/69.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_69.webp"
+      ],
+      "type": "Pants",
+      "id": "23530e14-8fa3-4fdd-885d-0bffedff6d90",
+      "status": true,
+      "trending": false,
+      "categoryId": "6a1faf21-9ed9-4581-8b9d-ccc2f9b175c0",
+      "mountSold": 42,
+      "price": 5,
+      "createdAt": 645691894,
+      "updatedAt": 1268290584
+    },
+    {
+      "name": "HEYYOU THE TOBACO WHITE PANTS",
+      "description": "Description:HEYYOU - NATIONAL TRADE !!!* Product name: HEYYOU THE TOBACO WHITE PANTS * Shirt color: White * Material: Velvet cotton is custom-woven according to company standards.* Technique Printing: The product is used manual silkscreen printing technique. Information on how to...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/70.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/70.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_70.webp"
+      ],
+      "type": "Pants",
+      "id": "4ebf5e6c-5956-4c8f-8a66-fafa21c3c5c8",
+      "status": false,
+      "trending": false,
+      "categoryId": "6a1faf21-9ed9-4581-8b9d-ccc2f9b175c0",
+      "mountSold": 96,
+      "price": 6,
+      "createdAt": 212618278,
+      "updatedAt": 1254763282
+    },
+    {
+      "name": "Heyyou the tobaco pants creams",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: HEYYOU THE TOBACO CREAM Pants* Shirt Color: Cream Color. * Size: Size M | Size L | Size XL. * Material: Velvet, tested quality according to company standards.* Printing technique: Product...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/71.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/71.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_71.webp"
+      ],
+      "type": "Pants",
+      "id": "f9e1699a-e9e9-4bbe-9d4e-065213d70426",
+      "status": true,
+      "trending": false,
+      "categoryId": "6a1faf21-9ed9-4581-8b9d-ccc2f9b175c0",
+      "mountSold": 61,
+      "price": 7,
+      "createdAt": 589132947,
+      "updatedAt": 1442642694
+    },
+    {
+      "name": "Heyyou fire yellow",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: HEYYOU FIRE YELLOW Shirt * COLOR: YELLOW: Cream Color. * Size: Size M | Size L | Size XL. * Material: Velvet, tested Quality check according to company standards.* Printing technique: Product ...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/72.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/72.jpg"],
+      "type": "Hoodie",
+      "id": "14d55f86-f144-4a28-a30e-18a11da41a64",
+      "status": true,
+      "trending": false,
+      "categoryId": "51071517-9741-481c-8d0d-9f37fba0eec9",
+      "mountSold": 55,
+      "price": 2,
+      "createdAt": 1353959568,
+      "updatedAt": 701247842
+    },
+    {
+      "name": "BUTTERFLY LONG WHITE SHIRT",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product Name: BUTTERFLY LONG WHITE SHIRT* Shirt Color: White. * Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch is custom-woven according to the company's standards.* Printing technique:...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/5.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_5.webp"
+      ],
+      "type": "Shirt",
+      "id": "cc2397ff-0fa0-457e-a8ee-91b70e4f7670",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 69,
+      "price": 14,
+      "createdAt": 1029077850,
+      "updatedAt": 1037086336
+    },
+    {
+      "name": "BASIC BLUE TEE",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: BASIC BLUE TEE * Shirt Color: Black / White. * Size: Size M | Size L | Size XL. * Material: 100% 4-way stretch cotton is custom-woven according to company standards.*...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/74.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/74.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_74.webp"
+      ],
+      "type": "Tee",
+      "id": "2dec0dbd-020f-447f-9085-632bd1d85247",
+      "status": true,
+      "trending": true,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 47,
+      "price": 13,
+      "createdAt": 1117450651,
+      "updatedAt": 753401418
+    },
+    {
+      "name": "ESSENTIAL TEE 1.0",
+      "description": "Description:HEYYOU - NATIONAL BRAND !!!* Product name: ESSENTIAL TEE* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch, custom woven according to standards company standard.* Printing technique: Product used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/75.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/75.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_75.webp"
+      ],
+      "type": "Tee",
+      "id": "c5ba97f0-675d-4bdb-a86e-e0d2383262b7",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 31,
+      "price": 5,
+      "createdAt": 1396464787,
+      "updatedAt": 430512629
+    },
+    {
+      "name": "Heyyou buuter - flower shirt green/short",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/76.jpg",
+      "sliderList": ["https://js-ecommerce-api.herokuapp.com/asset/img/76.jpg"],
+      "type": "Shirt",
+      "id": "a62b5a0c-2107-4bb2-b638-b240d27d3f15",
+      "status": false,
+      "trending": false,
+      "categoryId": "7da3f564-3d4a-4dfa-8980-23121d85df79",
+      "mountSold": 90,
+      "price": 7,
+      "createdAt": 79764765,
+      "updatedAt": 968484832
+    },
+    {
+      "name": "Heyyou zombie white tee",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_65.webp"
+      ],
+      "type": "Tee",
+      "id": "b589f43f-425f-4386-96cb-8abe21ea7b8d",
+      "status": true,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 63,
+      "price": 12,
+      "createdAt": 9588491,
+      "updatedAt": 1429923132
+    },
+    {
+      "name": "Heyyou zombie white tee",
+      "description": "There is no description for this product yet",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/65.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_65.webp"
+      ],
+      "type": "Tee",
+      "id": "930e4811-fc84-4793-bfb1-383ab3f6b9ba",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 32,
+      "price": 3,
+      "createdAt": 886088891,
+      "updatedAt": 682105158
+    },
+    {
+      "name": "FIREWORK WHITE TEE",
+      "description": "HEYYOU - NATIONAL BRAND !!!* Product Name: FIREWORK WHITE TEE* Color: White* Size: Size M | Size L | Size XL. * Material: 100% Cotton 4-way stretch fabric, woven separately according to the company's standards.* Printing technique: The product is used...",
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/47.webp",
+      "sliderList": [
+        "https://js-ecommerce-api.herokuapp.com/asset/img/47.webp",
+        "https://js-ecommerce-api.herokuapp.com/asset/img/slide_list/slide_47.webp"
+      ],
+      "type": "Tee",
+      "id": "c7e89267-534e-4e79-b880-29a248b3e21a",
+      "status": false,
+      "trending": false,
+      "categoryId": "2f91743c-4781-408c-a1ff-e5cefed30be9",
+      "mountSold": 98,
+      "price": 12,
+      "createdAt": 1202619631,
+      "updatedAt": 857901548
+    }
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/Slider_1.jpg",
+      "createdAt": 1097003272,
+      "updatedAt": 139900828
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/Slider_2_1.jpg",
+      "createdAt": 837316927,
+      "updatedAt": 767237564
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://js-ecommerce-api.herokuapp.com/asset/img/Slider_3.jpg",
+      "createdAt": 1195606166,
+      "updatedAt": 1388369175
+    }
+  ],
+  "profile": { "name": "ThaiPei" }
+}
