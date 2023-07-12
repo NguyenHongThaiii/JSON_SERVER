@@ -1,15 +1,16 @@
 const sliders = [
   {
     id: 1,
-    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/Slider_1.jpg",
+    imageUrl: "https://render-service-app.onrender.com/asset/img/Slider_1.jpg",
   },
   {
     id: 2,
-    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/Slider_2_1.jpg",
+    imageUrl:
+      "https://render-service-app.onrender.com/asset/img/Slider_2_1.jpg",
   },
   {
     id: 3,
-    imageUrl: "https://js-ecommerce-api.herokuapp.com/asset/img/Slider_3.jpg",
+    imageUrl: "https://render-service-app.onrender.com/asset/img/Slider_3.jpg",
   },
 ];
 
